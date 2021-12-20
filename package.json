@@ -1,0 +1,14 @@
+{
+  "name": "front-end",
+  "version": "1.0.0",
+  "description": "Website test",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass scss/:build/  -w"
+  },
+  "author": "Konsta Keski-Mattinen",
+  "license": "MIT",
+  "dependencies": {
+    "sass": "^1.45.0"
+  }
+}
