@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Website test",
   "main": "index.js",
-  "homepage": "https://kemakone.github.io/",
+  "homepage": "https://kemakone.github.io/SDS-Front-end-portfolio",
   "scripts": {
     "sass": "sass scss/:build/css/ -w",
     "deploy": "gh-pages -d build"
